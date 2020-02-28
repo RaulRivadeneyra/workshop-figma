@@ -16,7 +16,7 @@ En equipos grandes de trabajo es usual que un diseñador elabore los mockups y e
 ### ¿Qué es Figma?
 Figma es una aplicación web para la elaboración de interfaces graficas.
 
-==
+<br>
 
 ## ¡Empecemos!
 ### Descripción
