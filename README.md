@@ -25,13 +25,13 @@ Vamos a elaborar una tienda en linea para una compañia de zapatos francesa llam
 ### Requisitos
 Un sistema puede contener un numero muy grande de requisitos, pero no necesariamente todos puedan ser representados de manera visual, por ejemplo: "El sistema deberá usar el algoritmo de busqueda binaria para encontrar productos". Abajo se muestran unos requisitos extraidos de la descripción anterior que pueden ser maquetados:
 
-- 001. El sistema será realizado en formato web.
-- 002. El sistema contará con un buscador detallado (con filtros).
-- 003. El sistema tendrá un "carrito de compras" donde se almacenarán todos los productos que el usuario vaya a comprar.
-- 004. El usuario podrá agregar/quitar productos a su carrito de compra.
-- 005. El usuario podrá pagar con metodos de pagos electronicos los productos dentro de su carrito (individualmente o en conjunto).
-- 006. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
-- 007. ...
+1. El sistema será realizado en formato web.
+2. El sistema contará con un buscador detallado (con filtros).
+3. El sistema tendrá un "carrito de compras" donde se almacenarán todos los productos que el usuario vaya a comprar.
+4. El usuario podrá agregar/quitar productos a su carrito de compra.
+5. El usuario podrá pagar con metodos de pagos electronicos los productos dentro de su carrito (individualmente o en conjunto).
+6. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
+7. ...
 
 ### Ejercicio !1
 
