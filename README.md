@@ -1,5 +1,5 @@
 # De requisitos a prototipos
-## Elaboración de prototipos visuales basado en requsitos de software usando Figma como herramienta de diseño.
+### Elaboración de prototipos visuales basado en requsitos de software usando Figma como herramienta de diseño.
 El proposito de este taller es poder probar ideas y conceptos tanto de experiencia como interfaz de usuario de una manera rapida y sencilla, la interpretación de requisitos de software y como maquetarlo de manera grafica para diferentes fines; enfocado este taller principalmente a la experiencia que entrá el usuario del sistema.
 
 ## Conceptos
@@ -14,13 +14,20 @@ El grado de fidelidad hace referencia a que tan refinado o parecido es el mockup
 En equipos grandes de trabajo es usual que un diseñador elabore los mockups y el front-end dev solo se encarga de pasarlo a codigo. Pero no siempre será así, en proyectos con pocas personas es muy importante que alguien pueda darle una "cara" al sistema, o puede que al aprenderlo le agarres gusto al maqueteo y puedas ser un "puente" entre el equipo de diseño y el de desarrollo, o simplemente una herramienta más en tu arsenal.
 
 ### ¿Qué es Figma?
-Figma es una aplicación web para la elaboración de interfaces graficas
+Figma es una aplicación web para la elaboración de interfaces graficas.
 
 ## ¡Empecemos!
 ### Descripción
-Vamos a elaborar una tienda en linea para una compañia de zapatos francesa llamada "Inserte nombre frances". Al hablar con el cliente nos explicó que 
+Vamos a elaborar una tienda en linea para una compañia de zapatos francesa llamada "Inserte nombre frances". Al hablar con el cliente nos explicó que quiere que al entrar a la pagina vea información sobre su marca, le salgan sus promociones y productos novedosos, tener un lugar donde poder buscar productos ya sea por nombre/SKU, color, tipo, rango de precio o calzado. Se podrá comprar el producto directamente desde la tienda en linea.
 
 ### Requisitos
-- 001. 
+- 001. El sistema será realizado en formato web.
+- 002. El sistema contará con un buscador detallado (con filtros).
+- 003. El sistema tendrá un "carrito de compras" donde se almacenarán todos los productos que el usuario vaya a comprar.
+- 004. El usuario podrá agregar/quitar productos a su carrito de compra.
+- 005. El usuario podrá pagar con metodos de pagos electronicos los productos dentro de su carrito (individualmente o en conjunto).
+- 006. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
+- 007. El sistema
+
 
 
