@@ -16,18 +16,31 @@ En equipos grandes de trabajo es usual que un diseñador elabore los mockups y e
 ### ¿Qué es Figma?
 Figma es una aplicación web para la elaboración de interfaces graficas.
 
+==
+
 ## ¡Empecemos!
 ### Descripción
 Vamos a elaborar una tienda en linea para una compañia de zapatos francesa llamada "Inserte nombre frances". Al hablar con el cliente nos explicó que quiere que al entrar a la pagina vea información sobre su marca, le salgan sus promociones y productos novedosos, tener un lugar donde poder buscar productos ya sea por nombre/SKU, color, tipo, rango de precio o calzado. Se podrá comprar el producto directamente desde la tienda en linea.
 
 ### Requisitos
+Un sistema puede contener un numero muy grande de requisitos, pero no necesariamente todos puedan ser representados de manera visual, por ejemplo: "El sistema deberá usar el algoritmo de busqueda binaria para encontrar productos". Abajo se muestran unos requisitos extraidos de la descripción anterior que pueden ser maquetados:
+
 - 001. El sistema será realizado en formato web.
 - 002. El sistema contará con un buscador detallado (con filtros).
 - 003. El sistema tendrá un "carrito de compras" donde se almacenarán todos los productos que el usuario vaya a comprar.
 - 004. El usuario podrá agregar/quitar productos a su carrito de compra.
 - 005. El usuario podrá pagar con metodos de pagos electronicos los productos dentro de su carrito (individualmente o en conjunto).
 - 006. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
-- 007. El sistema
+- 007. ...
+
+### Ejercicio !1
+
+### Ejercicio 0!
+Ver que funcione [figma](https://www.figma.com).
+
+### Ejercicio √4
+
+### Ejercicio fibonacci(index: 4)
 
 
 
