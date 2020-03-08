@@ -52,9 +52,13 @@ En el segundo ejercicio no seguiremos con el segundo requisito sino con el 7º, 
 
 Actividad:
 - Dentro del frame creado en el primer ejercicio, agregar el nombre de la marca (inventa uno) y descripcion de la marca (puedes dejar un lorem ipsum)
-- Agregar 
+- Agregar la sección donde se encontrarán las promociones de la pagina
+- Agregar la sección donde se encontrarán los productos nuevos
+- Agregar un botón que te lleve a otro _frame_ vacío donde se encontarán todos los productos
+- Agregar un botón que te lleve a otro _frame_ vació donde se encontará el carrito de compras
 
 ### Ejercicio fibonacci(index: 4)
+Ya con la _landing page_ finalizada, podemos hacer el area donde estarán todos los productos, 
 
 
 
