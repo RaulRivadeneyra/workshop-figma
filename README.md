@@ -58,7 +58,7 @@ Actividad:
 - Agregar un botón que te lleve a otro _frame_ vació donde se encontará el carrito de compras
 
 ### Ejercicio fibonacci(index: 4)
-Ya con la _landing page_ finalizada, podemos hacer el area donde estarán todos los productos, 
+Ya con la _landing page_ finalizada, podemos hacer el área donde estarán todos los productos
 
 
 
