@@ -20,7 +20,7 @@ En equipos grandes de trabajo es usual que un diseñador elabore los mockups y e
 
 ## ¡Empecemos!
 ### Descripción
-Vamos a elaborar una tienda en linea para una compañia de zapatos francesa llamada "Inserte nombre frances". Al hablar con el cliente nos explicó que quiere que al entrar a la pagina vea información sobre su marca, le salgan sus promociones y productos novedosos, tener un lugar donde poder buscar productos ya sea por nombre/SKU, color, tipo, rango de precio o calzado. Se podrá comprar el producto directamente desde la tienda en linea.
+Vamos a elaborar una tienda en linea para una compañia de zapatos francesa llamada "Inserte nombre frances". Al hablar con el cliente nos explicó que quiere que al entrar a la pagina vea información sobre su marca, le salgan sus promociones y productos novedosos, tener un lugar donde poder buscar productos ya sea por nombre/SKU, rango de precio o tamaño de calzado.
 
 ### Requisitos
 Un sistema puede contener un numero muy grande de requisitos, pero no necesariamente todos puedan ser representados de manera visual, por ejemplo: "El sistema deberá usar el algoritmo de busqueda binaria para encontrar productos". Abajo se muestran unos requisitos extraidos de la descripción anterior que pueden ser maquetados:
@@ -28,11 +28,8 @@ Un sistema puede contener un numero muy grande de requisitos, pero no necesariam
 1. El sistema será realizado en formato web para escritorio.
 2. El usuario podrá ver los productos de la tienda.
 3. El sistema contará con un buscador detallado (con filtros).
-4. El sistema tendrá un "carrito de compras" donde se almacenarán todos los productos que el usuario vaya a comprar.
-5. El usuario podrá agregar/quitar productos a su carrito de compra.
-6. El usuario podrá pagar con metodos de pagos electronicos los productos dentro de su carrito (individualmente o en conjunto).
-7. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
-8. ...
+4. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
+5. ...
 
 _Nota: El diseño de la página será realizado con actividades dentro del taller presencial, si no asististe puede usar como ejemplo el [draft de Figma](https://www.figma.com/file/wzmUJVUsfcCEjeDEhSsszR/Workshop?node-id=0%3A1) de este repo o ver otras paginas en internet como referencias_ 
 
@@ -51,14 +48,19 @@ Actividad:
 En el segundo ejercicio no seguiremos con el segundo requisito sino con el 7º, ya que será más sencillo agregar un buscador de productos despues de agregar el area donde se encontrarán los productos, y será más sencillo agregar esa area si contamos con la _landing page_ (página principal).
 
 Actividad:
-- Dentro del frame creado en el primer ejercicio, agregar el nombre de la marca (inventa uno) y descripcion de la marca (puedes dejar un lorem ipsum)
+- Agregar un botón que te lleve a otro _frame_ vacío donde se encontará la información de la marca
+- Dentro del frame creado, agregar el nombre de la marca (inventa uno) y descripcion de la marca (puedes dejar un lorem ipsum)
+
+### Ejercicio fibonacci(index: 4)
+Es hora de terminar la _landing page_ con las cosas que faltaron del requisito #7 (promociones y mostrar productos nuevos).
+
+Actividad:
 - Agregar la sección donde se encontrarán las promociones de la pagina
 - Agregar la sección donde se encontrarán los productos nuevos
 - Agregar un botón que te lleve a otro _frame_ vacío donde se encontarán todos los productos
-- Agregar un botón que te lleve a otro _frame_ vació donde se encontará el carrito de compras
 
-### Ejercicio fibonacci(index: 4)
-Ya con la _landing page_ finalizada, podemos hacer el área donde estarán todos los productos
+### Ejercicio 🤚
+
 
 
 
