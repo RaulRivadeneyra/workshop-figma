@@ -34,10 +34,10 @@ Un sistema puede contener un numero muy grande de requisitos, pero no necesariam
 7. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
 8. ...
 
-_Nota: El diseño de la página será realizado con actividades dentro del taller presencial, si no asististe puede usar como ejemplo el Figma de este repo o ver otras paginas en internet como referencias_ 
+_Nota: El diseño de la página será realizado con actividades dentro del taller presencial, si no asististe puede usar como ejemplo el [draft de Figma](https://www.figma.com/file/wzmUJVUsfcCEjeDEhSsszR/Workshop?node-id=0%3A1) de este repo o ver otras paginas en internet como referencias_ 
 
 ### Ejercicio !1
-Ingresar a [figma](https://www.figma.com) y registrarse.
+Ingresar a [Figma](https://www.figma.com) y registrarse.
 Antes de empezar a extraer la información de los requisitos, es importante tener unas nociones de como utilizar Figma.
 Por suerte es muy facil aprender lo basico de Figma y existen muchisimos tutoriales. Busca unos cuantos y en menos de 30 minutos sabrás lo necesario para este taller.
 
