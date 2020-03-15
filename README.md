@@ -31,7 +31,7 @@ Un sistema puede contener un numero muy grande de requisitos, pero no necesariam
 4. El sistema mostrará en una pagina principal información sobre la marca, promociones y productos nuevos.
 5. ...
 
-_Nota: El diseño de la página será realizado con actividades dentro del taller presencial, si no asististe puede usar como ejemplo el [draft de Figma](https://www.figma.com/file/wzmUJVUsfcCEjeDEhSsszR/Workshop?node-id=0%3A1) de este repo o ver otras paginas en internet como referencias_ 
+_Nota: El diseño de la página será realizado con [actividades](https://github.com/RaulRivadeneyra/workshop-figma/blob/master/Actividad.md) dentro del taller presencial, si no asististe puede usar como ejemplo el [draft de Figma](https://www.figma.com/file/wzmUJVUsfcCEjeDEhSsszR/Workshop?node-id=0%3A1) de este repo o ver otras paginas en internet como referencias_ 
 
 ### Ejercicio !1
 Ingresar a [Figma](https://www.figma.com) y registrarse.
@@ -45,19 +45,21 @@ Actividad:
 - Hacer un _frame_ con las dimensiones 1280x720
 
 ### Ejercicio √4
-En el segundo ejercicio no seguiremos con el segundo requisito sino con el 7º, ya que será más sencillo agregar un buscador de productos despues de agregar el area donde se encontrarán los productos, y será más sencillo agregar esa area si contamos con la _landing page_ (página principal).
+En el segundo ejercicio no seguiremos con el segundo requisito sino con el 4º, ya que será más sencillo agregar un buscador de productos despues de agregar el area donde se encontrarán los productos, y será más sencillo agregar esa area si contamos con la _landing page_ (página principal).
 
 Actividad:
 - Agregar un botón que te lleve a otro _frame_ vacío donde se encontará la información de la marca
 - Dentro del frame creado, agregar el nombre de la marca (inventa uno) y descripcion de la marca (puedes dejar un lorem ipsum)
 
 ### Ejercicio fibonacci(index: 4)
-Es hora de terminar la _landing page_ con las cosas que faltaron del requisito #7 (promociones y mostrar productos nuevos).
+Es hora de terminar la _landing page_ con las cosas que faltaron del requisito #4 (promociones y mostrar productos nuevos).
 
 Actividad:
 - Agregar la sección donde se encontrarán las promociones de la pagina
 - Agregar la sección donde se encontrarán los productos nuevos
 - Agregar un botón que te lleve a otro _frame_ vacío donde se encontarán todos los productos
+
+### Ejercicio # de naciones en Avatar
 
 ### Ejercicio 🤚
 
